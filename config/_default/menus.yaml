@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 0134f860-c007-b8a0-1a19-b8f4c7b0acc4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5a5b1677-ecc3-edc0-b76b-f5ff5621b159
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d4138394-9188-7321-18e6-365bd6c9801f
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: a0d9fd3d-f345-b221-b489-c76e05c34cc5
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: eb131430-2300-bb30-a25a-3feae3bbac03
+  name: Projects
+  pageRef: /pages/projects
+  weight: 50
