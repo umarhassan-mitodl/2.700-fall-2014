@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of readings from the course textbooks
   by lecture session and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: a0d9fd3d-f345-b221-b489-c76e05c34cc5
 Textbook Key
 ------------
 
-\[PNA\] = Letcher, John. _Principles of Naval Architecture Series: The Geometry of Ships_. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773671. (Books in this series are available for purchase at {{% resource_link "c141ac95-d8b8-44cd-8a92-4acab6aee1c7" "The Society of Naval Architects and Marine Engineers" %}} website.)
+\[PNA\] = Letcher, John. _Principles of Naval Architecture Series: The Geometry of Ships_. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773671. (Books in this series are available for purchase at [The Society of Naval Architects and Marine Engineers](http://www.sname.org/) website.)
 
 \[Lewis\] = Lewis, Edward V., ed. _Principles of Naval Architecture, Vol. I & 2_. New York, 1941.
 

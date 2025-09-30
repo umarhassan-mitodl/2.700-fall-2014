@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding ship ge
 file: /courses/2-700-principles-of-naval-architecture-fall-2014/cd06a2f898575fae8d663a96644349dc_MIT2_700F14_project_4.pdf
 file_size: 339706
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

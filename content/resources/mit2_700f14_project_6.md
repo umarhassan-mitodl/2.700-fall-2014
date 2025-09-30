@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding ship re
 file: /courses/2-700-principles-of-naval-architecture-fall-2014/a8bcfa91c9090387da163625d5143c72_MIT2_700F14_project_6.pdf
 file_size: 207403
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

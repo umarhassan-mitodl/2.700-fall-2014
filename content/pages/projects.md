@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides instructions and supplementary files for the course
   projects.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ PROJECT TOPICS AND FILES
 
 {{% resource_link e85b9ced-442d-afc0-3ffa-3204cdbfc424 "Project 2: Hydrostatics (PDF)" %}}
 
-*   {{% resource_link "316b6c2e-e9c0-4d91-8346-e95ac79650d9" "Rhino Ship Hull Tutorial" %}}
+*   [Rhino Ship Hull Tutorial](http://www.scribd.com/doc/44417287/Rhino-Ship-Hull-Tutorial)
 
 
 {{< tdclose >}}

@@ -4,6 +4,8 @@ description: ''
 file: /courses/2-700-principles-of-naval-architecture-fall-2014/08fb06f49036fd3413721663d1f0d8e5_2-700_stat-students.png
 file_size: 2865
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
