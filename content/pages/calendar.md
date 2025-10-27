@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of course topics, instructors, guest
   lecturers, quizzes, and key dates for assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -447,7 +445,7 @@ Paper Topic Due
 Lab 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Towtank Lab](http://web.mit.edu/towtank/www/)
+{{% resource_link "f4ca2d62-38c3-47db-9c63-ab08edf78eaa" "Towtank Lab" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -462,7 +460,7 @@ Lab 1
 Lab 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Towtank Lab](http://web.mit.edu/towtank/www/) (cont.)
+{{% resource_link "f4ca2d62-38c3-47db-9c63-ab08edf78eaa" "Towtank Lab" %}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -562,7 +560,7 @@ L21
 
 Advanced Hull Forms
 
-Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+Guest Lecturer: Stefano Brizzolara, {{% resource_link "a4e00616-ffef-4ac1-a7b8-c64e10ea6814" "MIT Sea Grant" %}}
 
 
 {{< tdclose >}}
@@ -583,7 +581,7 @@ L22
 
 Advanced Hull Forms (cont.)
 
-Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+Guest Lecturer: Stefano Brizzolara, {{% resource_link "a4e00616-ffef-4ac1-a7b8-c64e10ea6814" "MIT Sea Grant" %}}
 
 
 {{< tdclose >}}

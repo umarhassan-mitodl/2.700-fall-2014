@@ -39,7 +39,6 @@
     "website": "2-700-principles-of-naval-architecture-fall-2014"
   },
   "course_title": "Principles of Naval Architecture",
-  "hide_download": true,
   "course_description": "This course presents principles of naval architecture, ship geometry, hydrostatics, calculation and drawing of curves of form, intact and damage stability, hull structure strength calculations and ship resistance. It introduces computer-aided naval ship design and analysis tools. Projects include analysis of ship lines drawings, calculation of ship hydrostatic characteristics, analysis of intact and damaged stability, ship model testing, and hull structure strength calculations.\n",
   "department_numbers": [
     "2"
@@ -50,7 +49,6 @@
     "content": "350841e3-4737-a0d5-0db9-f6788a4d7c7e",
     "website": "2-700-principles-of-naval-architecture-fall-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Projects",
     "Instructor Insights"
