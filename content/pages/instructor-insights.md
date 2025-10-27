@@ -23,7 +23,7 @@ Upon completion of the course students will have an introductory knowledge of na
 
 ### Possibilities for Further Study/Careers
 
-After completing this course, students may continue to take ship design courses in the [2N program](https://2n.mit.edu/).
+After completing this course, students may continue to take ship design courses in the {{% resource_link "4f8cdc11-c82a-47e0-a52c-9bd75700abaa" "2N program" %}}.
 
 Graduates go on to become naval architecture engineers and managers in both commercial and government naval ship acquisition programs, new construction and maintenance facilities and research and design centers.
 
@@ -34,11 +34,11 @@ Graduates go on to become naval architecture engineers and managers in both comm
 Either of these courses satisfy the prerequisite:
 
 - [_2.002 Mechanics and Materials II_](/courses/2-002-mechanics-and-materials-ii-spring-2004)
-- [_2.02B Mechanics of Structures_](http://student.mit.edu/catalog/m2a.html#2.02B)
+- {{% resource_link "2c2d1eed-2a38-463d-8043-ea575fe50144" "_2.02B Mechanics of Structures_" %}}
 
 ### Requirements Satisfied
 
-2.700 can be applied toward a [2-OE degree](http://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/) (Bachelor of Science in Mechanical and Ocean Engineering), but it is not required.
+2.700 can be applied toward a {{% resource_link "f3f502c6-2461-4ec7-851e-6d98282cc8dd" "2-OE degree" %}} (Bachelor of Science in Mechanical and Ocean Engineering), but it is not required.
 
 ### Offered
 

@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, grading, and textbooks.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +23,7 @@ This course presents principles of naval architecture, ship geometry, hydrostati
 Students need to have taken one of these courses:
 
 - [*2.002 Mechanics and Materials II*](/courses/2-002-mechanics-and-materials-ii-spring-2004)
-- [*2.02B Mechanics of Structures*](http://student.mit.edu/catalog/m2a.html#2.02B)
+- {{% resource_link "2c2d1eed-2a38-463d-8043-ea575fe50144" "*2.02B Mechanics of Structures*" %}}
 
 ## Grading
 
@@ -55,7 +53,7 @@ Lewis, Edward V., ed. *Principles of Naval Architecture, Vol. I: Stability and S
 
 Gillmer, Thomas C., and Bruce Johnson. *Introduction to Naval Architecture*. Naval Institute Press, 1982. ISBN: 9780870213182.
 
-*Books in this series are available for purchase at* [*The Society of Naval Architects and Marine Engineers*](https://www.sname.org/sname-text-reference-books) *website.*
+*Books in this series are available for purchase at* {{% resource_link "e7ce5e49-d0c0-47b3-91bd-667a2262c126" "*The Society of Naval Architects and Marine Engineers*" %}} *website.*
 
 Kerwin, Justin E., and Jacques B. Hadler. *Principles of Naval Architecture Series: Propulsion*. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773831.
 
@@ -67,8 +65,8 @@ Letcher, John. *Principles of Naval Architecture Series: The Geometry of Ships*.
 
 *These textbooks are not required, but are useful reference materials.*
 
-Tupper, Eric C. *Introduction to Naval Architecture*. 5th ed. Butterworth-Heinemann, 2013. ISBN: 9780080982373. \[Preview with [Google Books](http://books.google.com/books?id=xfrCzxP_erUC&pg=PAfrontcover)\]
+Tupper, Eric C. *Introduction to Naval Architecture*. 5th ed. Butterworth-Heinemann, 2013. ISBN: 9780080982373. \[Preview with {{% resource_link "33e5cb37-28c9-4039-8124-1dac67b2069f" "Google Books" %}}\]
 
 Zubaly, Robert B. *Applied Naval Architecture*. Cornell Maritime Pr / Tidewater Pub, 1996. ISBN: 9780870334757.
 
-Burcher, Roy, and Louis J. Rydill. *Concepts in Submarine Design*. Cambridge University Press, 1994. ISBN: 9780521416818. \[Preview with [Google Books](http://books.google.com/books?id=2aGuG6EoOL8C&pg=PAfrontcover)\]
+Burcher, Roy, and Louis J. Rydill. *Concepts in Submarine Design*. Cambridge University Press, 1994. ISBN: 9780521416818. \[Preview with {{% resource_link "2830003a-28a7-454d-98ef-faf5476066ab" "Google Books" %}}\]
